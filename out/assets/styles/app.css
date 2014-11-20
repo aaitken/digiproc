@@ -1,0 +1,9 @@
+@import url("/assets/styles/normalize.css");
+@import url("/assets/styles/typebase.css");
+.slide {
+  display: block;
+  width: 1000px;
+  height: 700px;
+  border: 0px solid #333333;
+  color: black;
+}
