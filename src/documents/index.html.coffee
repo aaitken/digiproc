@@ -9,13 +9,13 @@ div id:"impress", ->
 
   text @partial('overview.html.coffee')
 
-  text @partial('discovery.html.coffee')
-  text @partial('discovery/discovery1.html.coffee')
+  text @partial('discover.html.coffee')
+  text @partial('discover/discover1.html.coffee')
 
-  text @partial('design.html.coffee')
+  text @partial('plan.html.coffee')
   
-  text @partial('production.html.coffee')
+  text @partial('produce.html.coffee')
 
-  text @partial('optimization.html.coffee')
+  text @partial('optimize.html.coffee')
 
   
