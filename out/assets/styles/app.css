@@ -6,4 +6,8 @@
   height: 700px;
   border: 0px solid #333333;
   color: black;
+  opacity: 0.5;
+}
+.slide.present {
+  opacity: 1;
 }
